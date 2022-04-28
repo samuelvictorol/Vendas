@@ -1,0 +1,11 @@
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\bin\Debug\WinFormsPreco.exe.config
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\bin\Debug\WinFormsPreco.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\bin\Debug\WinFormsPreco.pdb
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.csproj.AssemblyReference.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.csproj.SuggestedBindingRedirects.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.Form1.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.Properties.Resources.resources
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.csproj.GenerateResource.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.csproj.CoreCompileInputs.cache
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.exe
+C:\Users\samue\OneDrive\Área de Trabalho\DEV\Cast\C#-Intermediario\WinFormsPreco\obj\Debug\WinFormsPreco.pdb
