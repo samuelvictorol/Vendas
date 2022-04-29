@@ -37,6 +37,7 @@
             this.btn_remove = new System.Windows.Forms.Button();
             this.lbl_res = new System.Windows.Forms.Label();
             this.btn_enviar = new System.Windows.Forms.Button();
+            this.label3 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // label1
@@ -130,11 +131,23 @@
             this.btn_enviar.UseVisualStyleBackColor = true;
             this.btn_enviar.Click += new System.EventHandler(this.btn_enviar_Click);
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label3.Location = new System.Drawing.Point(21, 108);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(573, 18);
+            this.label3.TabIndex = 9;
+            this.label3.Text = "Clique sobre o produto na lista produto, e depois em remover para deletar um prod" +
+    "uto";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(898, 450);
+            this.Controls.Add(this.label3);
             this.Controls.Add(this.btn_enviar);
             this.Controls.Add(this.lbl_res);
             this.Controls.Add(this.btn_remove);
@@ -162,6 +175,7 @@
         private System.Windows.Forms.Button btn_remove;
         private System.Windows.Forms.Label lbl_res;
         private System.Windows.Forms.Button btn_enviar;
+        private System.Windows.Forms.Label label3;
     }
 }
 
